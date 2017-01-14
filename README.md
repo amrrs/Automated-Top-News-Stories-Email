@@ -2,7 +2,7 @@
 
 A Batch triggered Py Code that can send an Outlook email with **Top New Stories** from [YourStory](https://yourstory.com/) and [HackerNews](https://news.ycombinator.com/). The idea is present this simple solution which can be used by other news lovers working in offices with Outlook to get it delivered in their inbox. 
 
-Email Screenshot:
+## Email Screenshot:
 
 ![Screenshot](/top_news_stories.PNG)
 
