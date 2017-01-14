@@ -4,7 +4,7 @@ A Batch triggered Py Code that can send an Outlook email with **Top New Stories*
 
 Email Screenshot:
 
-![ScreenShot](/Automated-Top-News-Stories-Email/top_news_stories.PNG)
+![Screenshot](/top_news_stories.PNG)
 
 ### How to use the code:
 
@@ -18,3 +18,6 @@ Email Screenshot:
 * Make sure your file path in the .bat file is rightly referenced to the Py file
 * Use Windows Task Scheduler to automate the email as per your wish 
 
+### Further Improvements:
+
+* Adding Links along with the Stories Headlines
