@@ -4,7 +4,7 @@ A Batch triggered Py Code that can send an Outlook email with **Top New Stories*
 
 Email Screenshot:
 
-![ScreenShot](Automated-Top-News-Stories-Email/top_news_stories.PNG)
+![ScreenShot](/Automated-Top-News-Stories-Email/top_news_stories.PNG)
 
 ### How to use the code:
 
