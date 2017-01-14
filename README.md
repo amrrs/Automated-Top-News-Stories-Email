@@ -10,11 +10,7 @@ A Batch triggered Py Code that can send an Outlook email with **Top New Stories*
 
 * Download both the Py and .bat (Batch) file
 * Install required Packages
-* Update your Email details
-  SERVER = "your smtp server"
-  FROM = "your from email id"
-  TO = "your to email ids" # can be a list
-  PASS = "your email id's password"
+* Update your Email details in the code
 * Make sure your file path in the .bat file is rightly referenced to the Py file
 * Use Windows Task Scheduler to automate the email as per your wish 
 
